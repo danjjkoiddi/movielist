@@ -1,0 +1,38 @@
+.about{
+    background-color: red;
+}
+
+body{
+    background-color: black;
+}
+
+.sami{
+    color: aqua;
+    
+}
+
+.title{
+    color: green;
+}
+
+.youtube {
+    background-color: white;
+    border: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: black;
+    size: 50px;
+    
+ }
+
+.youtube:hover{
+   background-color: red;
+   transition: background-color, 0.5s;
+    }
+
+.youtube:active{
+    opacity: 0.8;
+    
+}
+
+
